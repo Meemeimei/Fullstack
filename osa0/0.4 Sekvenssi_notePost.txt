@@ -1,0 +1,4 @@
+SELAIN			Palvelin
+HTTP POST (data.json) ->
+<- [{Content; muistiinpanot}]
+Selain renderöi muistiinpanot

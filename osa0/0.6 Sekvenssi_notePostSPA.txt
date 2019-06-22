@@ -1,0 +1,4 @@
+SELAIN			Palvelin
+HTTP POST (data.json) ->
+<- 201
+Selain renderöi sivun käyttäen javascriptiä

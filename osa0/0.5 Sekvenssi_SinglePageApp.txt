@@ -1,0 +1,6 @@
+SELAIN			Palvelin
+HTTP GET (https://fullstack-exampleapp.herokuapp.com/spa) ->
+<- HTML
+HTTP GET (js) ->
+<- js
+Selain renderöi muistiinpanot ja sivun javascriptin avulla 
